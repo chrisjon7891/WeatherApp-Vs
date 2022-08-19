@@ -1,0 +1,69 @@
+body {
+  font-family: "Gill Sans", sans-serif;
+  background-color: lightyellow;
+}
+.container {
+  background: linear-gradient(lightyellow);
+  max-height: min-content;
+  max-width: 700px;
+  margin: 10px auto;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+  font-family: "Gill Sans", sans-serif;
+}
+h2 {
+  text-align: center;
+}
+
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+li {
+  font-size: 20px;
+  font-weight: 100;
+  height: 26px;
+  line-height: 1;
+  list-style: none;
+}
+div.day {
+  font-size: 16px;
+  color: black;
+  line-height: 2;
+}
+svg {
+  color: blue;
+}
+.temperature {
+  color: black;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.units {
+  position: relative;
+  top: -34px;
+}
+.table {
+  text-align: left;
+  font-size: 20px;
+  margin: 30px auto;
+  padding: 15px 30px;
+}
+.row {
+  font-size: 25px;
+  margin: 30px auto;
+  padding: 15px 20px;
+}
+.col-4 {
+  text-align: center;
+}
